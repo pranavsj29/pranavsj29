@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranavsj29
 - 👀 I’m interested in Game Devlopment , AI-Ml and Data science
 - 🌱 I’m currently learning Game Devlopment and AI-Ml
-- 💞️ I’m looking to collaborate on Game Devlopment and AR-VR
+- 💞️ I’m looking to collaborate on Game Devlopment,AR-VR as well as for AI-ML 
 - 📫 How to reach me e-mail pranavsj.29@gmail.com
 
 <!---
